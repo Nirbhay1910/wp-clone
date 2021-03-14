@@ -17,8 +17,14 @@ function Chat() {
   const [input, setInput] = useState('');
   const { roomId } = useParams();
   const [roomName, setRoomName] = useState('');
+  const [seed, setSeed] = useState('');
   const [messages, setMessages] = useState([]);
+
   const [{ user }, dispatch] = useStateValue();
+
+  useEffect(() => {
+    setSeed(Math.floor(Math.random() * 5000));
+  }, []);
 
   useEffect(() => {
     if (roomId) {
@@ -50,8 +56,7 @@ function Chat() {
     <div className='chat'>
       <div className='chat__header'>
         <Avatar
-          src={`https://avatars.dicebear.com/api/human/${Math.floor(
-            Math.random() * 5000
+          src={`https://avatars.dicebear.com/api/human/${seed}\
           )}.svg`}
         />
         <div className='chat__headerInfo'>

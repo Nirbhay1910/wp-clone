@@ -13,7 +13,7 @@ YouTube link: https://www.youtube.com/watch?v=oCe-RH43MsI
 	![Google sign-in screenshot](https://drive.google.com/uc?export=view&id=1OktemkfXJqejF7HjsxgMJ7auzy9yeC6f)
 - It also has the function of creating new groups.
 
-		![Google sign-in screenshot](https://drive.google.com/uc?export=view&id=1WybkSruUJTou0nnPvGg5AFtk9JHRLy5I)
+	![Google sign-in screenshot](https://drive.google.com/uc?export=view&id=1WybkSruUJTou0nnPvGg5AFtk9JHRLy5I)
 
 ## Getting Started with Create React App
 

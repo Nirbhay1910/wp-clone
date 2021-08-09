@@ -1,19 +1,19 @@
-# Facebook-Clone
+# WhatsApp-Clone
 This project is made using React JS and Firebase.
-Website is hosted at: https://fb-clone-fbae8.web.app/
-YouTube link: https://www.youtube.com/watch?v=UXvnqBjy_Ro
+Website is hosted at: https://wp-clone-a6cf8.web.app/
+YouTube link: https://www.youtube.com/watch?v=oCe-RH43MsI
 ## Features
 
 - It has google authorization
 	
-	![Google sign-in screenshot](https://drive.google.com/uc?export=view&id=1mNI8LZTxTnogoGHfVDtkH7YKzUfcN-pv)
+	![Google sign-in screenshot](https://drive.google.com/uc?export=view&id=1wW9Hhb321YMkmQ3wLuO5XSSu5DeKA6UQ)
 
-- It's UI is almost similar to facebook
+- It's UI is almost similar to whatsapp and has feature to chat with others in realtime (implemented using firebase).
 
-	![Google sign-in screenshot](https://drive.google.com/uc?export=view&id=1dJnF73nnuX_7jPtAjgm5AdEqkXzRozAn)
-- It also has comment section
+	![Google sign-in screenshot](https://drive.google.com/uc?export=view&id=1OktemkfXJqejF7HjsxgMJ7auzy9yeC6f)
+- It also has the function of creating new groups.
 
-	![Google sign-in screenshot](https://drive.google.com/uc?export=view&id=1SL7H3bNWJcUVukczkkntBJxW9waYv9VS)
+		![Google sign-in screenshot](https://drive.google.com/uc?export=view&id=1WybkSruUJTou0nnPvGg5AFtk9JHRLy5I)
 
 ## Getting Started with Create React App
 
